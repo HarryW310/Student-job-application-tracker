@@ -1,4 +1,4 @@
-document.addEventListener("Object Model Loaded", function() {
+document.addEventListener("DOMContentLoaded", function() {
     //variable for radiobuttons allowing them to be selected
     var radioButtons = document.querySelectorAll('input[type="radio"]');
     
